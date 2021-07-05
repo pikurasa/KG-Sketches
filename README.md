@@ -1,0 +1,1 @@
+This repository has various exercises, transations, and compositions for the Kite Guitar (https://kiteguitar.com/).

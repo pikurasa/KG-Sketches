@@ -1,0 +1,53 @@
+Circle of Fifths
+================
+
+This is an exercise that will take you through the circle of fifths. It modulates from any major key (I) to its relative dominant (V).
+
+It is the same exercise that Eliot Fisk would have his students do in his technique class, translated for the Kite Guitar. You can use it to go through all the possible keys -- all 41 of them! Feel free to perform a scale or passage in each key for additional practice.
+
+Absolute Tab Version
+
+The following is written in Absolute Tab (https://en.xen.wiki/w/Kite_Guitar#Relative_and_Absolute_Tab) with the lower voice on the left, and the higher voice on the right, seperated by a semicolon.
+
+( 0, 0);( 0, 0)
+( 0, 0);(+1,-3)
+( 0,-2);( 0,+2)
+( 0,+2);( 0, 0)
+(+1,-3);( 0, 0)
+( 0, 0);( 0,-2)
+(-2,+1);( 0,+2)
+
+An example in absolute notation (for D maj --> A maj) would be:
+
+| - - - - | - - - - |
+| - - - - | - - - - |
+| - 5 7 7 | 7 5 7 - |
+| 8 - - - | 5 5(5)- |
+| 8 8 6 8 | - -(6)- |
+| - - - - | - - 6 - |
+
+Notes in parenthesis are optional.
+
+Tip: On the last chord, just play the higher of the two pitches if you run out of strings.
+
+Circle of Fourths
+=================
+
+The reverse of the above example is also possible.
+
+( 0, 0);( 0, 0)
+(-1,+3);( 0, 0)
+( 0,-2);( 0,+2)
+( 0,+2);( 0, 0)
+(+1,-3);( 0, 0)
+( 0, 0);( 0,-2)
+(-2,+1);( 0,+2)
+
+And in absolute notation (for E maj --> A maj):
+
+| - - - - | - - - - |
+| - - - - | - - - - |
+| 5 5 7 7 | 7 5 7 - |
+| 5 - - - | 5 5(5)- |
+| - 8 6 8 | - -(6)- |
+| - - - - | - - 6 - |
