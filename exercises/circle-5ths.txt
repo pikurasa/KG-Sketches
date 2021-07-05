@@ -30,6 +30,36 @@ Notes in parenthesis are optional.
 
 Tip: On the last chord, just play the higher of the two pitches if you run out of strings.
 
+### Variations (from Aaron Wolf) to highlight the option of using harmonic 7 in the dominant chord:
+
+| - - - - | -  -  -   - |
+| - - - - | -  -   -  - |
+| - 5 7 7 | 7  5   7  - |
+| 8 - - - | 5  1  (5) - |
+| 8 8 6 8 | - (3) (6) - |
+| - - - - | -   -  6  - |
+
+That uses harmonic 7 as in a Vv7 chord only for the penultimate harmony.
+
+| - - - - | -  -  -   - |
+| - - - - | -  -   -  - |
+| - 5 7 7 | 7  5   7  - |
+| 8 1 - - | 5  1  (5) - |
+| 8 - 6 8 | - (3) (6) - |
+| - - - - | -   -  6  - |
+
+That one uses harmonic 7 for both dominant chords.
+
+Both of those examples are more novel sounding but are expressive in their own way and fit the harmonics precisely.
+
+### Theory notes on this exercise
+
+The cadence implies IV-V-I-V-I with an implied tuning of IVv Vv,7 Iv/3 Iv/4 Iv/5 Vv I
+
+If using a Vv7 instead of Vv,7 then there's a comma shift between scale degrees 4 and v4
+
+
+
 Circle of Fourths
 =================
 
