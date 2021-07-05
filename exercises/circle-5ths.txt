@@ -40,7 +40,12 @@ I - V/V -*I6 - IV | V(sus)4 - 3 - I
 
 *new key of V begins, and therefore V of the original key is now I of the new key.
 
-### Variations (from Aaron Wolf) to highlight the option of using harmonic 7 in the dominant chord:
+### Variations (from Aaron Wolf) to highlight the option of using harmonic 7 in the dominant chord
+
+Theory note first: all the dyads in the original are clean, simple near-JI blended sounds. The second harmony is effectively a 5:7 ratio and is the most blended tritone available. Now, that ratio itself implies a different harmonic context than the intended one (it implies a ^♭VIv7 chord), but that doesn't matter with just the dyads. By leaving out the rest of the chord, the harmonic tension that would come from having a Vv with plain 7 (Vv,7) isn't present. The dyad alone is a clean blend, and the melody works just fine.
+
+If the rest of the chord were added, the original pitches wouldn't fit a clean harmonic blend but would have more dissonance. For comparison, *if* we were to tune to the harmonics that would fit the blended full Vv7 chord, then it would change toward the following examples.
+
 
 | - - - - | -  -  -   - |
 | - - - - | -  -   -  - |
