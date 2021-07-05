@@ -28,7 +28,17 @@ An example in Absolute Tab Notation (for D maj --> A maj) would be:
 
 Notes in parenthesis are optional.
 
+Cycling: To cycle through the circle of (41) fifths, choose the highest or lowest pitch of the last chord (which is the new tonic) and do the exercise again. If you find yourself too low on the fretboard, find the same pitch somewhere else higher on the fretboard ( https://en.xen.wiki/w/Kite_Guitar#Relative_and_Absolute_Tab has some tips for this as well).
+
 Tip: On the last chord, just play the higher of the two pitches if you run out of strings.
+
+### Theory notes on this exercise
+
+Harmonic Analysis: This example takes you from a reference major key (I) to itsrelative dominant (V) by way of a dominant of dominant. The second dyad gives you a tritone, as it implies the "dominant of the dominant" (V of V). It is a bit ambiguous where the original key ends and the new key begins, but we could say that by the third dyad, we are in the new key (V) which would be written as:
+
+I - V/V -*I6 - IV | V(sus)4 - 3 - I 
+
+*new key of V begins, and therefore V of the original key is now I of the new key.
 
 ### Variations (from Aaron Wolf) to highlight the option of using harmonic 7 in the dominant chord:
 
