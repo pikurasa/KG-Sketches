@@ -1,0 +1,31 @@
+The I-vi-ii-V is a great example as it one of the simplest examples that demonstrates two different versions of the same pitch.
+
+Various textures are possible. This version has a nice walking bass line.
+
+| - 9 - - | - 9 - - | - 4 - - | - 7 - - |
+| - 7 - - | - 10- - | - 4 - - | - 7 - - |
+| - 8 - - | - 8 - - | - 5 - - | - 5 - - |
+| 8 - 8 6 | - - - - | - - - 3 | - - - 6 |
+| - - - - | 9 - 9 - | - - - - | 6 - 6 - |
+| - - - - | - - - 7 | 4 - 4 - | - - - - |
+
+|   I     |   vi    |   ii    |    V    |
+
+...and repeat!
+
+So where are the two versions of the same pitch?
+
+The answer is: The 9th fret, 5th string (for the vi chord) and the 4th fret, 1st string (for the ii chord).
+
+Play them together and they sound off.
+
+| 4 |
+| - |
+| - |
+| - |
+| 9 |
+| - |
+
+Agh!
+
+But offset in time, and supported by their respective harmonies they sound very nice. Enjoy!
