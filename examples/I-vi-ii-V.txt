@@ -15,17 +15,17 @@ Various textures are possible. This version has a nice walking bass line.
 
 So where are the two versions of the same pitch?
 
-The answer is: The 9th fret, 5th string (for the vi chord) and the 4th fret, 1st string (for the ii chord).
+The answer is: The 9th fret, 5th string (for the vi chord) and the 4th fret, 1st string (for the ii chord) as well as the 3rd fret, 4th string--both of which are the same pitch offset by an octave.
 
 Play them together and they sound off.
 
-| 4 |
-| - |
-| - |
-| - |
-| 9 |
-| - |
+| 4 |    | - |
+| - |    | - |
+| - | or | - |
+| - |    | 3 |
+| 9 |    | 9 |
+| - |    | - |
 
 Agh!
 
-But offset in time, and supported by their respective harmonies they sound very nice. Enjoy!
+However, being offset in time, and supported by their respective harmonies, they sound very nice. Enjoy!
