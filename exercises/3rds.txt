@@ -1,0 +1,18 @@
+3rds exercise ascending and descending
+
+3rds requires a unique challenge on the Kite Guitar as you cannot play them entirely on just two adjacent strings. Here are some choices a player has.
+
+All in a single position on the guitar (starting pitch of 8 is arbitrary; can be transposed to any position)
+| - -  - - | - - - - | - - - - | - - -  - |
+| - -  - - | - - 6 9 | 9 6 - - | - - -  - |
+| - -  - - | 7 9 7 9 | 9 7 9 7 | - - -  - |
+| - -  7 10| 7 10- - | - -10 7 |10 7 -  - |
+| 8 10 8 10| - - - - | - - - - |10 8 10 8 |
+| 8 11 - - | - - - - | - - - - | - - 11 8 |
+
+Quality:
+| M m m M | M m m M | M m m M | M m m M |
+
+Scale degree of pitches:
+| 3 4 5 6 | 7 8 9 10|10 9 8 7 | 6 5 4 3 |
+| 1 2 3 4 | 5 6 7 8 | 8 7 6 5 | 4 3 2 1 |
