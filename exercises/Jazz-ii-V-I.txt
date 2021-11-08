@@ -2,7 +2,7 @@ ii7 - V7 - I7 for Jazz Cycle
 
 II^7 - Vv,^7 - IvM7 in Kite Guitar 41EDO Nomenclature
 
-This exercise cycles through II^7 - Vv,^7 - IvM7 in all 41 keys on the Kite Guitar. It does this by making the final IvM7 into the II^7 of the next key. Below the exercise is an example of how you can modify it as II^7 - V^7 - IvM7 (notice the upmajor dominant seven chord), which makes the tritone more consonant as in https://en.xen.wiki/w/Kite_Guitar_Originals_by_Kite_Giedraitis#II-V-I_riff_in_A_downmajor
+This exercise cycles through II^7 - Vv,^7 - IvM7 in all 41 keys on the Kite Guitar. It does this by making the final IvM7 into the II^7 of the next key. Below the exercise is an example of how you can modify it as II^7 - V^7 - IvM7 (notice the updominant seven chord), which makes the tritone more consonant as in https://en.xen.wiki/w/Kite_Guitar_Originals_by_Kite_Giedraitis#II-V-I_riff_in_A_downmajor
 
 For 6 string, which presents various challenges for motion in both bass and trebles.
 
@@ -33,7 +33,7 @@ Shape "C"    | Shape "A"  | Shape "B"  | Shape "C"  |
 At which you can go over (down) one string in the bass and down 14 frets to start. You will be now one full fret on the 5th string from where you began.
 
 | 3  3  -  - | 6  9  9  - | 8  11 14 - | 13 13 -  - |
-| 1  4  7  - | 6  8  9  - | 9  12 12 - | 11 14 17 - |
+| 1  4  7  - | 6  6  9  - | 9  12 12 - | 11 14 17 - |
 | 2  5  5  - | 4  7  10 - | 9  9  12 - | 12 15 15 - |
 | -  5  5  - | -  -  10 - | 10 -  -  - | -  15 15 - |
 | 3  -  -  - | -  8  -  - | -  -  13 - | 13 -  -  - |
@@ -45,7 +45,7 @@ So there are the different shapes to consider and bass movements (to get from hi
 
 Playing the progression as II^7 - V^7 - IvM7
 
-Here are the three main shapes with an upmajor dominant 7 chord. This avoids a harsher tritone. Personally, I prefer Vv,^7 when the chord is blocked, and V^7 when the chord is broken up (e.g. boom-chuck). Try them both, try them in different contexts and see which one you like.
+Here are the three main shapes with an updominant 7 chord. This avoids a harsher tritone. Personally, I prefer Vv,^7 when the chord is blocked, and V^7 when the chord is broken up (e.g. boom-chuck). Try them both, try them in different contexts and see which one you like.
 
 | 4  4  -  - | 7  11 10 - | 9  12 15 - | 14 14 -  - |
 | 2  5  8  - | 7  7  10 - | 10 14 13 - | 12 15 18 - |
