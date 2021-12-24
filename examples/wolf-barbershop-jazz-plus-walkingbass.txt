@@ -1,0 +1,62 @@
+This is based on Aaron Wolf's https://youtu.be/v9W4Pbb0xgc
+
+I added a walking bass for myself and am sketching it out here.
+
+Listen to a sample at https://www.devinulibarri.com/wp-content/uploads/2021/11/Try-Walking-Bass-Barbershop-My-Recording_170.mp4
+
+| -  -  4  - | -  -    3  - | 3  -   6  - | 8  -   8  - |
+| 9  -  -  - | 6  -    4  - | 2  -   2  - | 6  -   6  - |
+| 7  -  7  - | 5  -    0  - | 4  -   4  - | 9  -   7  - |
+| 7  -  7  3 | 7  -    -  2 | 5  5 2 -  5 | 7  7 6 7  5 |
+| -  8  5  - | 8  8 5  -  - | -  -   5  - | -  -   -  - |
+| 8  -  -  - | -  -  4 3  - | -  -   -  - | -  -   -  - |
+
+| IvM7 Vv7/5 | Iv9noR/3 VIv7|IIv9noR/3 IIv7|V4     Vv   |
+
+| 8  -    -     | -  -    -  -   | 6 - - - |
+| -  -    11    | 11 -    11 -   | 9 - - - |
+| 9  -    9     | 9  -    7  -   | 7 - - - |
+| 10 -    10    | 10 -    9  -   | 7 - - - |
+| 10 10 8 6  10 | -  8    -  7   | - - - - |
+| -  -    -     | 11 - 11 10 - 10| 8 - - - |
+
+| IVv,9   IVv7/7| vII^m7  ^♭IIv7 | IvM7♯11 |
+
+Here are Aaron's notes for analysis and comparison:
+
+barbershoppy progression:
+
+IvM7
+Vv7/5
+Iv9noR/3 (alternate: Vvm7)
+VIv7
+IIv9noR/3
+IIv7
+V4 (or V4,7)
+Vv7
+IVv,9
+IVv7/7
+vII^m7
+^♭IIv7
+(optional swipe) v♭II^7
+
+final resolution option: IvM7♯11 i.e. IvM7,v♯4
+
+
+One tabbed version:
+
+8 x 7 7 9 x
+x 5 7 7 x 4
+x 8 7 5 6 x
+3 x x 0 4 3
+x x 5 4 2 3
+x 5 x 4 2 6
+x x 7 9 11 x
+x 5 3 7 x 8   (alternate: x x 7 7 6 4 and works well to do one then the other)
+x 10 10 9 x 8
+x 6 10 9 11 x
+11 x 10 9 11 x
+10 x 9 7 11 x
+
+final resolution:
+8 x 7 7 9 6
